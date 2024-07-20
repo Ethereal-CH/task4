@@ -212,6 +212,65 @@ span{
   font:Inter;
 }
 
+@media(max-width: 736px){
+  body{
+  float: none;
+  width: 100%
+  }
+
+  .sections h1{
+    font-size: 17px;
+  }
+
+  span{
+    font-size: 15px;
+  }
+
+  h3{
+    font-size: 15px;
+  }
+
+  .last-section h2{
+    font-size: 15px;
+  }
+
+  .last-section h4{
+    font-size: 14px;
+  }
+
+  .content{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+  }
+
+  .Content{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .third-section{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .fourth-section{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .last-section{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+
+}
+
 
 
 
